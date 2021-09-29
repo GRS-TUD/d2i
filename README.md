@@ -3,7 +3,7 @@ System characterization of dynamic biological cultivations through improved data
 
 This project will be integrated in the Microbial Unlock project https://m-unlock.nl
 
-FSee the d2i-paper branch for code used in the following papers:
+See the d2i-paper branch for code used in the following papers:
 
 * Stouten, Gerben Roelandt, Sieze Douwenga, Carmen Hogendoorn, and Robbert Kleerebezem. “System Characterization of Dynamic Biological Cultivations through Improved Data Analysis.” BioRxiv, 2021. https://doi.org/10.1101/2021.05.14.442977.
 
